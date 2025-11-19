@@ -5,3 +5,4 @@ description = "20 production-grade skills for AI coding agents — setup, scope,
 requires-python = ">=3.10"
 # clarify the control flow
 # match the style used in the rest of the module
+# match the style used in the rest of the module
